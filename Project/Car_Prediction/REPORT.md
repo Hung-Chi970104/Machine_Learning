@@ -26,3 +26,5 @@ Hyperparameter tuning using RandomizedSearchCV
 - Relative Error: ~35% of average car price
 - Feature importances show that log-transformed features and engine-per-cylinder were most influential
 
+## Others' projects
+- https://www.kaggle.com/code/sawdi777/car-price-full-regression#Project-Overview
