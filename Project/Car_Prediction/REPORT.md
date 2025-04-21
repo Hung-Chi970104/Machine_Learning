@@ -29,7 +29,7 @@ Hyperparameter tuning using RandomizedSearchCV
 - Feature importances show that log-transformed features and engine-per-cylinder were most influential
 
 ## Final Thought
-With this RMSE and R^2, the model did a quite solid job, although not good enough for production, due to its stability and descent average distance from the true values
+With this RMSE and R^2, the model did a quite solid job, although not good enough for production, due to its stability and descent average distances from the true values
 
 ## Others' projects
 - https://www.kaggle.com/code/sawdi777/car-price-full-regression#Project-Overview
