@@ -22,9 +22,14 @@ Built a full pipeline using RandomForestRegressor inside Pipeline with ColumnTra
 Hyperparameter tuning using RandomizedSearchCV
 
 ## 📈 Model Performance:
-- 10-fold Cross-Validated RMSE: ~6,657
+- 10-fold Cross-Validated
+  - RMSE: ~6,657
+  - R^2: ~63%
 - Relative Error: ~35% of average car price
 - Feature importances show that log-transformed features and engine-per-cylinder were most influential
+
+## Final Thought
+With this RMSE and R^2, the model did a quite solid job, although not good enough for production, due to its stability and descent average distance from the true values
 
 ## Others' projects
 - https://www.kaggle.com/code/sawdi777/car-price-full-regression#Project-Overview
