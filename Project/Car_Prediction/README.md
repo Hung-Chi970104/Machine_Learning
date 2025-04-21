@@ -2,6 +2,9 @@
 
 This project aims to predict the price of used cars using scikit-learn pipelines and custom feature engineering techniques.
 
+## Dataset
+https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge/data
+
 ## Features
 - Feature ratios (e.g., Engine_Liters per Cylinders)
 - Log transformation for skewed numeric columns
