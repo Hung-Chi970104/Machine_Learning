@@ -20,8 +20,6 @@
            1       0.64      0.82      0.72        22
 
     accuracy                           0.67        42
-   macro avg       0.68      0.66      0.65        42
-weighted avg       0.68      0.67      0.66        42
 
 - The positive recall is high (less undetected mine)
 - The precision is quite low
