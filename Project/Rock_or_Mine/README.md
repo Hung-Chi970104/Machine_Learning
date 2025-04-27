@@ -6,16 +6,13 @@
 
 *This project is only for self-pratice purpose
 
----
 ## Data Preprocessing:
 - Replace "R" to 0, and "M" to 1 for better model interpretation
 - Scale the data using StandardScaler
 
----
 ## Model:
 - The pipeline includes StandardScaler and LogisticRegression
 
----
 ## Model Performance:
               precision    recall  f1-score   support
 
@@ -29,11 +26,9 @@ weighted avg       0.68      0.67      0.66        42
 - The positive recall is high (less undetected mine)
 - The precision is quite low
 
----
 ## Issues:
 - High negative recall, and low positive precision -> Lots of rock may be misclassified as mine
 
----
 ## Need Improvements:
 - Add hyperparameter tuning may end up better
 - Add more data
