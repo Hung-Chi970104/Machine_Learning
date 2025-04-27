@@ -1,5 +1,5 @@
 # Goal: Use logistic model to classify rock and mine.
----
+
 ## Purpose and Audience:
 - This project aims to classify rock and mine by using logistic model.
 - To minimize undetected mine, since it is explosive -> maximize recall while balancing precision
