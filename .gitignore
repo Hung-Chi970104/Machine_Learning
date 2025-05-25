@@ -1,5 +1,7 @@
 # Ignore virtual environment
 env/
+envs/
+data/
 
 # Ignore Python bytecode and caches
 __pycache__/
